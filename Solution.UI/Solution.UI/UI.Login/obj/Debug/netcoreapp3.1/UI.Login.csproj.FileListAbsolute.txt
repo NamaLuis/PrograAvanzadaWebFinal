@@ -1,0 +1,668 @@
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.StaticWebAssets.xml
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.exe
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.deps.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.dev.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfoInputs.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.Manifest.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.xml
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\scopedcss\bundle\UI.Login.styles.css
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.input.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.output.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorCoreGenerate.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.Views.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CopyComplete
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.genruntimeconfig.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.exe
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.deps.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\scopedcss\bundle\UI.Login.styles.css
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CopyComplete
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutORIGINAL.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.StaticWebAssets.xml
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.exe
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.deps.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.dev.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.AssemblyReference.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfoInputs.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CoreCompileInputs.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.Manifest.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.xml
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\scopedcss\bundle\UI.Login.styles.css
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.input.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.output.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorCoreGenerate.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CopyComplete
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.genruntimeconfig.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layoutoriginal.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.StaticWebAssets.xml
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.exe
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.deps.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.dev.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfoInputs.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.Manifest.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.xml
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\scopedcss\bundle\UI.Login.styles.css
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.input.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.output.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorCoreGenerate.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layoutoriginal.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CopyComplete
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.exe
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.deps.json
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.json
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\staticwebassets\UI.Login.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\scopedcss\bundle\UI.Login.styles.css
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layoutoriginal.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.Views.pdb
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.dll
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.pdb
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\obj\Debug\netcoreapp3.1\UI.Login.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Solution.UI\Solution.UI\UI.Login\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json

@@ -1,0 +1,140 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+    @if (User.Identity.Name == "manuelgrrr2095@gmail.com")
+    {<nav id="navbar" class="navbar order-last order-lg-0">
+
+            <ul>
+
+                <li class="dropdown">
+                    <a href="#"><span>Sistema Informático</span> <i class="bi bi-chevron-down"></i></a>
+                    <ul>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Puesto" asp-action="Index">Puestos</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Puesto" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Rol" asp-action="Index">Roles</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Rol" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Empleado" asp-action="Index">Empleados</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Empleado" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Proveedor" asp-action="Index">Proveedores</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Proveedor" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Producto" asp-action="Index">Productos</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Producto" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Provincia" asp-action="Index">Provincias</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Provincia" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Cliente" asp-action="Index">Clientes</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Cliente" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown" asp-area="" asp-controller="Factura" asp-action="Index">Facturas</a>
+                            <ul>
+                                <li><a class="nav-link " asp-area="" asp-controller="Factura" asp-action="Create">Crear</a></li>
+                            </ul>
+                        </li>
+
+
+
+                    </ul>
+
+
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+
+
+
+    }@if (User.Identity.Name == "manuelgrrr4.mg@gmail.com")
+    
+        {<nav id="navbar" class="navbar order-last order-lg-0">
+
+                <ul>
+
+                    <li class="dropdown">
+                        <a href="#"><span>Sistema Informático</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>                           
+                            <li class="dropdown">
+                                <a class="dropdown" asp-area="" asp-controller="Proveedor" asp-action="Index">Proveedores</a>
+                                <ul>
+                                    <li><a class="nav-link " asp-area="" asp-controller="Proveedor" asp-action="Create">Crear</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown" asp-area="" asp-controller="Producto" asp-action="Index">Productos</a>
+                                <ul>
+                                    <li><a class="nav-link " asp-area="" asp-controller="Producto" asp-action="Create">Crear</a></li>
+                                </ul>
+                            </li>                            
+                            <li class="dropdown">
+                                <a class="dropdown" asp-area="" asp-controller="Cliente" asp-action="Index">Clientes</a>
+                                <ul>
+                                    <li><a class="nav-link " asp-area="" asp-controller="Cliente" asp-action="Create">Crear</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown" asp-area="" asp-controller="Factura" asp-action="Index">Facturas</a>
+                                <ul>
+                                    <li><a class="nav-link " asp-area="" asp-controller="Factura" asp-action="Create">Crear</a></li>
+                                </ul>
+                            </li>
+
+
+
+                        </ul>
+
+
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+
+
+        }
+        <a class="nav-link " asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hola @User.Identity.Name!</a>
+
+
+        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button type="submit" class="nav-link btn btn-link">Salir</button>
+        </form>
+
+    }
+
+
+    else
+    {
+
+        <a class="nav-link" asp-area="Identity" asp-page="/Account/Register">Registrar</a>
+
+        <a class="nav-link " asp-area="Identity" asp-page="/Account/Login">Ingresar</a>
+
+    }
+

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<UI.Login.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Clientes</h1>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Cliente</a>
+</p>
+<table class="table table-dark table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Nombre")
+            </th>
+            <th>
+                @Html.DisplayName("Apellido")
+            </th>
+            <th>
+                @Html.DisplayName("Apellido")
+            </th>
+            <th>
+                @Html.DisplayName("Provincia")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido2)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdprovinciaNavigation.NombreProvincia)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Cedula">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Cedula">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Cedula">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

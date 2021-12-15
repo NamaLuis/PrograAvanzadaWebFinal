@@ -1,0 +1,62 @@
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.AssemblyReference.cache
+C:\Users\Analista Sistemas\source\repos\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Manuel\Desktop\Nueva carpeta (2)\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb\restaurante\restaurante\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache

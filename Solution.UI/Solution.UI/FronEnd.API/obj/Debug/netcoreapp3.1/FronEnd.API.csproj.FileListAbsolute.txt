@@ -1,0 +1,550 @@
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyectoFinalWeb\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\ARS\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csprojAssemblyReference.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+D:\Dropbox\Dropbox\fidelitas\Programacion Avanzada web\Proyecto\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\proyectoFinalWeb con Login\Solution.UI\Solution.UI\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\ARS\source\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.exe
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.deps.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.runtimeconfig.dev.json
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfoInputs.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.AssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorAssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.Manifest.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\staticwebassets\FronEnd.API.StaticWebAssets.xml
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FronEnd.API.styles.css
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.input.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.TagHelpers.output.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorCoreGenerate.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedor\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Provincia\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Create.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Delete.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Details.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Edit.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Rol\Index.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cache
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.RazorTargetAssemblyInfo.cs
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.Views.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.csproj.CopyComplete
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.dll
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.pdb
+C:\Users\Manuel\Desktop\proyecto final\proyectoFinalWeb con Login (SOLO FRONTEND)\proyectoFinalWeb con Login (SOLO FRONTEND)\Solution.UI\FronEnd.API\obj\Debug\netcoreapp3.1\FronEnd.API.genruntimeconfig.cache
